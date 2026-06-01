@@ -56,7 +56,7 @@ Durante la complementación del proyecto se implementaron las siguientes mejoras
 
 Ejecutar el siguiente comando:
 
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
+git clone https://github.com/Jhon-Siza/ContenidoAudiovisual-Unidad4
 
 O descargar el proyecto como archivo ZIP desde GitHub.
 
